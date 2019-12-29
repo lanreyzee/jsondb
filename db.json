@@ -1,0 +1,131 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "name":"Lanrey Bob",
+            "username":"lanreyzee",
+            "email":"lanrebob1@ymail.com",
+            "password":"1a2b3c4d",
+            "age":"22",
+            "image":"images/user1.jpg"
+        },
+        {
+            "id":"2",
+            "name":"Kemi Bode",
+            "username":"khenny",
+            "email":"khemmy@gmail.com",
+            "password":"123456",
+            "age":"29",
+            "image":"images/user2.png"
+        },
+        {
+            "id":"3",
+            "name":"Olayere Margaret",
+            "username":"maggi",
+            "email":"maggi20@gmail.com",
+            "password":"123486",
+            "age":"27",
+            "image":"images/user4.jpg"
+        },
+        {
+            "id":"4",
+            "name":"Iswat Oladimeji",
+            "username":"iswat",
+            "email":"iswat@gmail.com",
+            "password":"123486",
+            "age":"27",
+            "image":"images/user1.jpg"
+        },
+        {
+            "id":"5",
+            "name":"Olabode Tiamiyu",
+            "username":"bode",
+            "email":"bode200@gmail.com",
+            "password":"123486",
+            "age":"27",
+            "image":"images/user4.jpg"
+        }
+    ],
+    "managers":[
+        {
+            "id":"1",
+            "name":"Iswat Tiamiyu",
+            "username":"shalewa",
+            "email":"shalewa@yahoomail.com"
+        },
+        {
+            "id":"2",
+            "name":"Hansel Bob",
+            "username":"hansel",
+            "email":"hansel@ymail.com"
+        }
+    ],
+    "companies":[
+        {
+            "companyID":"1",
+            "companyName":"Procter & Gamble",
+            "revenue":"$5 Billion"
+        },
+        {
+            "companyID":"2",
+            "companyName":"British American Tobacco",
+            "revenue":"$12 Billion"
+        },
+        {
+            "companyID":"3",
+            "companyName":" Lancer",
+            "revenue":"$7 Billion"
+        }
+    ],
+    "posts": [
+        {
+            "title":"Witchcraft in Football",
+            "postBody":"Witchcraft is real in football, says a veteran football start Abedi Pelle."
+        },
+        {
+            "title":"Business of Cocoa falls",
+            "postBody":"Cocoa botanically name Theobroma Cacao used to be the world's most coveted plant."
+        },
+        {
+            "title":"International Trade",
+            "postBody":"International trade plummets due to recent decline of petroleum products.t."
+        },
+        {
+            "title":"Davido launches new Album",
+            "postBody":"Cocoa botanically name Theobroma Cacao used to be the world's most coveted plant."
+        },
+        {
+            "title":"Trump gets Impeached",
+            "postBody":"The president of the United States Donald Trump had been impeached following allegations of fraud."
+        }
+    ],
+    "products":[
+        {
+            "productID":1,
+            "productSKU":"0092",
+            "productName":"Clippers",
+            "categories":"Electronics",
+            "price":"N2,700",
+            "brand":"Chaoba",
+            "manufacturer":"Kyoto Kawaska"
+        },
+        {
+            "productID":2,
+            "productSKU":"0090",
+            "productName":"LG Smart TV",
+            "categories":"Electronics",
+            "price":"N122,700",
+            "brand":"LG",
+            "manufacturer":"LG"
+        },
+        {
+            "productID":3,
+            "productSKU":"0010",
+            "productName":"Yukon Camera",
+            "categories":"Electronics",
+            "price":"N82,200",
+            "brand":"Yukon",
+            "manufacturer":"Yukon Japan"
+        }
+    ]
+}
